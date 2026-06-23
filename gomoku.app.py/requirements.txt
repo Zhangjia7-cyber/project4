@@ -1,4 +1,7 @@
-# pygame 第三方库 用于图形界面和游戏渲染 
-pygame 
+pip==26.1.2 
+streamlit==1.35.0 
 rich>=10.14.0 
-streamlit
+# 你其余所有依赖写在下方 
+pandas 
+numpy 
+plotly
