@@ -1,0 +1,7 @@
+pygame 第三方库 用于图形界面和游戏渲染 
+sys 内置库 用于退出程序（无需安装）
+pygame==2.5.2
+安装方式
+pip install pygame
+运行方式
+python gomoku.py
